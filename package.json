@@ -1,0 +1,17 @@
+{
+  "name": "denjis-unittest-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest",
+    "test:ui": "vitest --ui"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@vitest/ui": "^3.1.2",
+    "serverless": "^4.14.2"
+  }
+}
